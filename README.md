@@ -4,4 +4,4 @@ I HAVE BEEN DRAGGED AND DROPPED!! OH MY!!!
 
 I HAVE BEEN LINKED TO FROM THE ROOT FOLDER!!!  
 
-<img src="Spike_Spiegel_bang.jpeg" alt="BANG!!" width="300" height="200">
+<img src="Spike_Spiegel_bang.jpeg" width="300" height="200">
